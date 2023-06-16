@@ -1,0 +1,5 @@
+IP Privada: 192.168.64.4
+IP Pública: 179.8.176.70 
+Dirección MAC: ae:a9:dd:4e:db:b1
+
+Si, ambas ips son diferentes
